@@ -1,7 +1,7 @@
 ## Olá, eu sou a Kaylaine Beatriz! 💜
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 📚 Atualmente aprendendo HTML5, CSS3 e JavaScript
+- 🎓 Estudante de Desenvolvimento Web 
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/kaylainelinda011">
@@ -23,9 +23,5 @@
  ##
  
  <div> 
-  <a href="https://www.instagram.com/kaylaine_beatriz15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kaylainekaka9o874@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/kaylainebeatriz/kaylainebeatriz/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.instagram.com/kaylaine_beatriz15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
